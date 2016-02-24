@@ -1,0 +1,13 @@
+---
+layout: yu-tayu
+title:  "test"
+date:   2015-06-05 12:30:00
+categories: git
+---
+
+# yu-tayu
+test
+
+- hogehoge
+- hogehoge
+- hogehoge
